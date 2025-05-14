@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DistanceMap</string>
+    <string name="permission_ubication">Permiso de ubicación</string>
+    <string name="show_list_by_ubication">Mostrar listado</string>
+    <string name="entregar_cercano">Entregar + cercano</string>
+    <string name="pedidos">Pedidos</string>
+    <string name="posicion_actual">Posicion Actual:</string>
+    <string name="distancia">Distancia:</string>
+    <string name="posici_n">Posición:</string>
+    <string name="listado_de_pedidos">Listado de pedidos</string>
+</resources>
